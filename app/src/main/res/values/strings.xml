@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practical_3_ColourMyViews</string>
+    <string name="box_one">PokeDex</string>
+    <string name="box_two"></string>
+    <string name="box_three">Name:Great Ball</string>
+    <string name="box_four">Catch Power: 25</string>
+    <string name="box_five">Weight: 100g</string>
+    <string name="how_to_play">How To Play:</string>
+    <string name="tap_the_boxes_and_buttons">Tap the screen and buttons.</string>
+    <string name="button_red">RED</string>
+    <string name="button_yellow">YELLOW</string>
+    <string name="button_green">GREEN</string>
+</resources>
